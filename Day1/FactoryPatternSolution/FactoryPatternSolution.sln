@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacotryCoreLib", "FacotryCoreLib\FacotryCoreLib.csproj", "{6E922661-099B-4F01-980E-B865160B89C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacotryLibClientApp", "FacotryLibClientApp\FacotryLibClientApp.csproj", "{D34E0C09-0A38-41BE-AC01-AF65D348C85D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E922661-099B-4F01-980E-B865160B89C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E922661-099B-4F01-980E-B865160B89C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E922661-099B-4F01-980E-B865160B89C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E922661-099B-4F01-980E-B865160B89C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34E0C09-0A38-41BE-AC01-AF65D348C85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34E0C09-0A38-41BE-AC01-AF65D348C85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34E0C09-0A38-41BE-AC01-AF65D348C85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34E0C09-0A38-41BE-AC01-AF65D348C85D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A900C7-1D9A-4692-8EFD-962D632321E3}
+	EndGlobalSection
+EndGlobal

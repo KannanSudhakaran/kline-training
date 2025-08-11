@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\razorpagetemplateapp\\razorpagetemplateapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|solutionrelative:razorpagetemplateapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\razorpagetemplateapp\\razorpagetemplateapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|solutionrelative:razorpagetemplateapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\razorpagetemplateapp\\razorpagetemplateapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|solutionrelative:razorpagetemplateapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\razorpagetemplateapp\\razorpagetemplateapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|solutionrelative:razorpagetemplateapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\razorpagetemplateapp\\razorpagetemplateapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|solutionrelative:razorpagetemplateapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\razorpagetemplateapp\\razorpagetemplateapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|solutionrelative:razorpagetemplateapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\razorpagetemplateapp\\razorpagetemplateapp\\razorpagetemplateapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|solutionrelative:razorpagetemplateapp\\razorpagetemplateapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\razorpagetemplateapp\\razorpagetemplateapp\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|solutionrelative:razorpagetemplateapp\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\razorpagetemplateapp\\razorpagetemplateapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|solutionrelative:razorpagetemplateapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\razorpagetemplateapp\\razorpagetemplateapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B83203-491E-4780-8C0D-23C39676C996}|RazorPageTemplateApp\\RazorPageTemplateApp.csproj|solutionrelative:razorpagetemplateapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorPageTemplateApp\\appsettings.json",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\appsettings.json",
+              "RelativeToolTip": "RazorPageTemplateApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T03:04:47.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RazorPageTemplateApp\\appsettings.Development.json",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\appsettings.Development.json",
+              "RelativeToolTip": "RazorPageTemplateApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T03:04:20.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RazorPageTemplateApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RazorPageTemplateApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T02:58:58.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPageTemplateApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPageTemplateApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T02:54:04.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\Program.cs",
+              "RelativeDocumentMoniker": "RazorPageTemplateApp\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\Program.cs",
+              "RelativeToolTip": "RazorPageTemplateApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T02:45:47.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPageTemplateApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorPageTemplateApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T02:53:58.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RazorPageTemplateApp",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\RazorPageTemplateApp.csproj",
+              "RelativeDocumentMoniker": "RazorPageTemplateApp\\RazorPageTemplateApp.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\RazorPageTemplateApp.csproj",
+              "RelativeToolTip": "RazorPageTemplateApp\\RazorPageTemplateApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T03:00:30.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPageTemplateApp\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "RazorPageTemplateApp\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T02:58:22.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RazorPageTemplateApp\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "RazorPageTemplateApp\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T02:53:07.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPageTemplateApp\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\RazorPageTemplateApp\\RazorPageTemplateApp\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "RazorPageTemplateApp\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T02:50:29.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\MVCTemplateApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47AD0343-B86A-40A5-A3E1-A4372BDB2A07}|MVCTemplateApp\\MVCTemplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\mvctemplateapp\\mvctemplateapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AD0343-B86A-40A5-A3E1-A4372BDB2A07}|MVCTemplateApp\\MVCTemplateApp.csproj|solutionrelative:mvctemplateapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AD0343-B86A-40A5-A3E1-A4372BDB2A07}|MVCTemplateApp\\MVCTemplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\mvctemplateapp\\mvctemplateapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AD0343-B86A-40A5-A3E1-A4372BDB2A07}|MVCTemplateApp\\MVCTemplateApp.csproj|solutionrelative:mvctemplateapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AD0343-B86A-40A5-A3E1-A4372BDB2A07}|MVCTemplateApp\\MVCTemplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\mvctemplateapp\\mvctemplateapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47AD0343-B86A-40A5-A3E1-A4372BDB2A07}|MVCTemplateApp\\MVCTemplateApp.csproj|solutionrelative:mvctemplateapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AD0343-B86A-40A5-A3E1-A4372BDB2A07}|MVCTemplateApp\\MVCTemplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\mvctemplateapp\\mvctemplateapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47AD0343-B86A-40A5-A3E1-A4372BDB2A07}|MVCTemplateApp\\MVCTemplateApp.csproj|solutionrelative:mvctemplateapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AD0343-B86A-40A5-A3E1-A4372BDB2A07}|MVCTemplateApp\\MVCTemplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\mvctemplateapp\\mvctemplateapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47AD0343-B86A-40A5-A3E1-A4372BDB2A07}|MVCTemplateApp\\MVCTemplateApp.csproj|solutionrelative:mvctemplateapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\MVCTemplateApp\\MVCTemplateApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MVCTemplateApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\MVCTemplateApp\\MVCTemplateApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MVCTemplateApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T03:28:39.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\MVCTemplateApp\\MVCTemplateApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVCTemplateApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\MVCTemplateApp\\MVCTemplateApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVCTemplateApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T03:26:21.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\MVCTemplateApp\\MVCTemplateApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCTemplateApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\MVCTemplateApp\\MVCTemplateApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCTemplateApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T03:25:48.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\MVCTemplateApp\\MVCTemplateApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCTemplateApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\MVCTemplateApp\\MVCTemplateApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCTemplateApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:23:27.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\MVCTemplateApp\\MVCTemplateApp\\Program.cs",
+              "RelativeDocumentMoniker": "MVCTemplateApp\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\MVCTemplateApp\\MVCTemplateApp\\Program.cs",
+              "RelativeToolTip": "MVCTemplateApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:22:14.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

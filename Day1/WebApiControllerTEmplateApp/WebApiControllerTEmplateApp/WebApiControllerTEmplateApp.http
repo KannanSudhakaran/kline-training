@@ -1,0 +1,6 @@
+@WebApiControllerTEmplateApp_HostAddress = http://localhost:5155
+
+GET {{WebApiControllerTEmplateApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

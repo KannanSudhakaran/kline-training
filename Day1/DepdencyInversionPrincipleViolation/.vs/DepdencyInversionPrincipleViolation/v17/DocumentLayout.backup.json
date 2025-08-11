@@ -1,26 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\DepdencyInversionPrincipleViolation\\",
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\depdencyinversionprincipleviolation\\dipviolationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|solutionrelative:dipviolationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65567A7C-4400-49AD-B1EC-10E75B6FB298}|DIPCleanARchitecture\\DIPCleanARchitecture.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\depdencyinversionprincipleviolation\\dipcleanarchitecture\\highlevelmodules\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65567A7C-4400-49AD-B1EC-10E75B6FB298}|DIPCleanARchitecture\\DIPCleanARchitecture.csproj|solutionrelative:dipcleanarchitecture\\highlevelmodules\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\depdencyinversionprincipleviolation\\dipviolationapp\\highlevel\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65567A7C-4400-49AD-B1EC-10E75B6FB298}|DIPCleanARchitecture\\DIPCleanARchitecture.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\depdencyinversionprincipleviolation\\dipcleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65567A7C-4400-49AD-B1EC-10E75B6FB298}|DIPCleanARchitecture\\DIPCleanARchitecture.csproj|solutionrelative:dipcleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65567A7C-4400-49AD-B1EC-10E75B6FB298}|DIPCleanARchitecture\\DIPCleanARchitecture.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\depdencyinversionprincipleviolation\\dipcleanarchitecture\\lowlevelmodules\\dblogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65567A7C-4400-49AD-B1EC-10E75B6FB298}|DIPCleanARchitecture\\DIPCleanARchitecture.csproj|solutionrelative:dipcleanarchitecture\\lowlevelmodules\\dblogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65567A7C-4400-49AD-B1EC-10E75B6FB298}|DIPCleanARchitecture\\DIPCleanARchitecture.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\depdencyinversionprincipleviolation\\dipcleanarchitecture\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{65567A7C-4400-49AD-B1EC-10E75B6FB298}|DIPCleanARchitecture\\DIPCleanARchitecture.csproj|solutionrelative:dipcleanarchitecture\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65567A7C-4400-49AD-B1EC-10E75B6FB298}|DIPCleanARchitecture\\DIPCleanARchitecture.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\depdencyinversionprincipleviolation\\dipcleanarchitecture\\lowlevelmodules\\windowseventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65567A7C-4400-49AD-B1EC-10E75B6FB298}|DIPCleanARchitecture\\DIPCleanARchitecture.csproj|solutionrelative:dipcleanarchitecture\\lowlevelmodules\\windowseventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65567A7C-4400-49AD-B1EC-10E75B6FB298}|DIPCleanARchitecture\\DIPCleanARchitecture.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\depdencyinversionprincipleviolation\\dipcleanarchitecture\\lowlevelmodules\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65567A7C-4400-49AD-B1EC-10E75B6FB298}|DIPCleanARchitecture\\DIPCleanARchitecture.csproj|solutionrelative:dipcleanarchitecture\\lowlevelmodules\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\depdencyinversionprincipleviolation\\dipviolationapp\\highlevel\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|solutionrelative:dipviolationapp\\highlevel\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\depdencyinversionprincipleviolation\\dipviolationapp\\lowlevel\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65567A7C-4400-49AD-B1EC-10E75B6FB298}|DIPCleanARchitecture\\DIPCleanARchitecture.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\depdencyinversionprincipleviolation\\dipcleanarchitecture\\highlevelmodules\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65567A7C-4400-49AD-B1EC-10E75B6FB298}|DIPCleanARchitecture\\DIPCleanARchitecture.csproj|solutionrelative:dipcleanarchitecture\\highlevelmodules\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\depdencyinversionprincipleviolation\\dipviolationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|solutionrelative:dipviolationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\depdencyinversionprincipleviolation\\dipviolationapp\\lowlevel\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|solutionrelative:dipviolationapp\\lowlevel\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\depdencyinversionprincipleviolation\\dipviolationapp\\lowlevel\\windoweventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|solutionrelative:dipviolationapp\\lowlevel\\windoweventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\depdencyinversionprincipleviolation\\dipviolationapp\\highlevel\\logtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|solutionrelative:dipviolationapp\\highlevel\\logtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\day1\\depdencyinversionprincipleviolation\\dipviolationapp\\highlevel\\logtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|solutionrelative:dipviolationapp\\highlevel\\logtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\depdencyinversionprincipleviolation\\dipviolationapp\\lowlevel\\windoweventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E0A75F-2640-4F9D-ACDB-7FD29C3D11BE}|DIPViolationApp\\DIPViolationApp.csproj|solutionrelative:dipviolationapp\\lowlevel\\windoweventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,64 +75,151 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FileLogger.cs",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\LowLevel\\FileLogger.cs",
-              "RelativeDocumentMoniker": "DIPViolationApp\\LowLevel\\FileLogger.cs",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\LowLevel\\FileLogger.cs",
-              "RelativeToolTip": "DIPViolationApp\\LowLevel\\FileLogger.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAywA4AAAAjAAAAAAAAAA==",
+              "Title": "DbLogger.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPCleanARchitecture\\LowLevelModules\\DbLogger.cs",
+              "RelativeDocumentMoniker": "DIPCleanARchitecture\\LowLevelModules\\DbLogger.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPCleanARchitecture\\LowLevelModules\\DbLogger.cs",
+              "RelativeToolTip": "DIPCleanARchitecture\\LowLevelModules\\DbLogger.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T06:04:17.51Z",
+              "WhenOpened": "2025-08-11T06:34:47.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WindowEventLogger.cs",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\LowLevel\\WindowEventLogger.cs",
-              "RelativeDocumentMoniker": "DIPViolationApp\\LowLevel\\WindowEventLogger.cs",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\LowLevel\\WindowEventLogger.cs",
-              "RelativeToolTip": "DIPViolationApp\\LowLevel\\WindowEventLogger.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T06:02:14.277Z",
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPCleanARchitecture\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "DIPCleanARchitecture\\ClassDiagram1.cd",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPCleanARchitecture\\ClassDiagram1.cd",
+              "RelativeToolTip": "DIPCleanARchitecture\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-08-11T06:29:26.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LogType.cs",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\HighLevel\\LogType.cs",
-              "RelativeDocumentMoniker": "DIPViolationApp\\HighLevel\\LogType.cs",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\HighLevel\\LogType.cs",
-              "RelativeToolTip": "DIPViolationApp\\HighLevel\\LogType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Title": "WindowsEventLogger.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPCleanARchitecture\\LowLevelModules\\WindowsEventLogger.cs",
+              "RelativeDocumentMoniker": "DIPCleanARchitecture\\LowLevelModules\\WindowsEventLogger.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPCleanARchitecture\\LowLevelModules\\WindowsEventLogger.cs",
+              "RelativeToolTip": "DIPCleanARchitecture\\LowLevelModules\\WindowsEventLogger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T05:58:33.412Z",
+              "WhenOpened": "2025-08-11T06:26:09.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPCleanARchitecture\\LowLevelModules\\FileLogger.cs",
+              "RelativeDocumentMoniker": "DIPCleanARchitecture\\LowLevelModules\\FileLogger.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPCleanARchitecture\\LowLevelModules\\FileLogger.cs",
+              "RelativeToolTip": "DIPCleanARchitecture\\LowLevelModules\\FileLogger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:25:59.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaxCalculator.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPCleanARchitecture\\HighLevelModules\\TaxCalculator.cs",
+              "RelativeDocumentMoniker": "DIPCleanARchitecture\\HighLevelModules\\TaxCalculator.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPCleanARchitecture\\HighLevelModules\\TaxCalculator.cs",
+              "RelativeToolTip": "DIPCleanARchitecture\\HighLevelModules\\TaxCalculator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:21:12.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPCleanARchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "DIPCleanARchitecture\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPCleanARchitecture\\Program.cs",
+              "RelativeToolTip": "DIPCleanARchitecture\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:20:35.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPCleanARchitecture\\HighLevelModules\\ILogger.cs",
+              "RelativeDocumentMoniker": "DIPCleanARchitecture\\HighLevelModules\\ILogger.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPCleanARchitecture\\HighLevelModules\\ILogger.cs",
+              "RelativeToolTip": "DIPCleanARchitecture\\HighLevelModules\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:22:16.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WindowEventLogger.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\LowLevel\\WindowEventLogger.cs",
+              "RelativeDocumentMoniker": "DIPViolationApp\\LowLevel\\WindowEventLogger.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\LowLevel\\WindowEventLogger.cs",
+              "RelativeToolTip": "DIPViolationApp\\LowLevel\\WindowEventLogger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:02:14.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogType.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\HighLevel\\LogType.cs",
+              "RelativeDocumentMoniker": "DIPViolationApp\\HighLevel\\LogType.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\HighLevel\\LogType.cs",
+              "RelativeToolTip": "DIPViolationApp\\HighLevel\\LogType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T05:58:33.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TaxCalculator.cs",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\HighLevel\\TaxCalculator.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\HighLevel\\TaxCalculator.cs",
               "RelativeDocumentMoniker": "DIPViolationApp\\HighLevel\\TaxCalculator.cs",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\HighLevel\\TaxCalculator.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\HighLevel\\TaxCalculator.cs",
               "RelativeToolTip": "DIPViolationApp\\HighLevel\\TaxCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T05:55:17.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\LowLevel\\FileLogger.cs",
+              "RelativeDocumentMoniker": "DIPViolationApp\\LowLevel\\FileLogger.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\LowLevel\\FileLogger.cs",
+              "RelativeToolTip": "DIPViolationApp\\LowLevel\\FileLogger.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:04:17.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\Program.cs",
               "RelativeDocumentMoniker": "DIPViolationApp\\Program.cs",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\Program.cs*",
-              "RelativeToolTip": "DIPViolationApp\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\DepdencyInversionPrincipleViolation\\DIPViolationApp\\Program.cs",
+              "RelativeToolTip": "DIPViolationApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T05:54:00.705Z",
               "EditorCaption": ""

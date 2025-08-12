@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab02MiddleAndDepdencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5700EA-0D8D-4130-9A4B-957D05ACA31E}|Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab02middleanddepdencyinjection\\lab02middleanddepdencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5700EA-0D8D-4130-9A4B-957D05ACA31E}|Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj|solutionrelative:lab02middleanddepdencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5700EA-0D8D-4130-9A4B-957D05ACA31E}|Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab02middleanddepdencyinjection\\lab02middleanddepdencyinjection\\klinemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5700EA-0D8D-4130-9A4B-957D05ACA31E}|Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj|solutionrelative:lab02middleanddepdencyinjection\\klinemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5700EA-0D8D-4130-9A4B-957D05ACA31E}|Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab02middleanddepdencyinjection\\lab02middleanddepdencyinjection\\myextensonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5700EA-0D8D-4130-9A4B-957D05ACA31E}|Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj|solutionrelative:lab02middleanddepdencyinjection\\myextensonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5700EA-0D8D-4130-9A4B-957D05ACA31E}|Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab02middleanddepdencyinjection\\lab02middleanddepdencyinjection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5700EA-0D8D-4130-9A4B-957D05ACA31E}|Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj|solutionrelative:lab02middleanddepdencyinjection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5700EA-0D8D-4130-9A4B-957D05ACA31E}|Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab02middleanddepdencyinjection\\lab02middleanddepdencyinjection\\services\\amazonses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5700EA-0D8D-4130-9A4B-957D05ACA31E}|Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj|solutionrelative:lab02middleanddepdencyinjection\\services\\amazonses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5700EA-0D8D-4130-9A4B-957D05ACA31E}|Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab02middleanddepdencyinjection\\lab02middleanddepdencyinjection\\lab02middleanddepdencyinjection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C5700EA-0D8D-4130-9A4B-957D05ACA31E}|Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj|solutionrelative:lab02middleanddepdencyinjection\\lab02middleanddepdencyinjection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyExtensonMethods.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection\\MyExtensonMethods.cs",
+              "RelativeDocumentMoniker": "Lab02MiddleAndDepdencyInjection\\MyExtensonMethods.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection\\MyExtensonMethods.cs",
+              "RelativeToolTip": "Lab02MiddleAndDepdencyInjection\\MyExtensonMethods.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T04:09:46.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab02MiddleAndDepdencyInjection\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab02MiddleAndDepdencyInjection\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T04:02:42.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KlineMiddleware.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection\\KlineMiddleware.cs",
+              "RelativeDocumentMoniker": "Lab02MiddleAndDepdencyInjection\\KlineMiddleware.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection\\KlineMiddleware.cs",
+              "RelativeToolTip": "Lab02MiddleAndDepdencyInjection\\KlineMiddleware.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T03:38:32.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab02MiddleAndDepdencyInjection",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj",
+              "RelativeDocumentMoniker": "Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj",
+              "RelativeToolTip": "Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T03:42:32.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection\\Program.cs",
+              "RelativeDocumentMoniker": "Lab02MiddleAndDepdencyInjection\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection\\Program.cs",
+              "RelativeToolTip": "Lab02MiddleAndDepdencyInjection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T03:38:08.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AmazonSES.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection\\Services\\AmazonSES.cs",
+              "RelativeDocumentMoniker": "Lab02MiddleAndDepdencyInjection\\Services\\AmazonSES.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab02MiddleAndDepdencyInjection\\Lab02MiddleAndDepdencyInjection\\Services\\AmazonSES.cs",
+              "RelativeToolTip": "Lab02MiddleAndDepdencyInjection\\Services\\AmazonSES.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T03:48:00.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

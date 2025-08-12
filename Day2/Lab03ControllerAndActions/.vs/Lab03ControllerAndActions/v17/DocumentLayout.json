@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab03controllerandactions\\lab03controllerandactions\\filters\\mylogthisaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|solutionrelative:lab03controllerandactions\\filters\\mylogthisaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab03controllerandactions\\lab03controllerandactions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|solutionrelative:lab03controllerandactions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab03controllerandactions\\lab03controllerandactions\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|solutionrelative:lab03controllerandactions\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab03controllerandactions\\lab03controllerandactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|solutionrelative:lab03controllerandactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab03controllerandactions\\lab03controllerandactions\\lab03controllerandactions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|solutionrelative:lab03controllerandactions\\lab03controllerandactions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab03controllerandactions\\lab03controllerandactions\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|solutionrelative:lab03controllerandactions\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab03controllerandactions\\lab03controllerandactions\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|solutionrelative:lab03controllerandactions\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab03controllerandactions\\lab03controllerandactions\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|solutionrelative:lab03controllerandactions\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab03controllerandactions\\lab03controllerandactions\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|solutionrelative:lab03controllerandactions\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab03controllerandactions\\lab03controllerandactions\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|solutionrelative:lab03controllerandactions\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day2\\lab03controllerandactions\\lab03controllerandactions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B9C79D0-312C-4BFF-8F7A-414C09E66E0C}|Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj|solutionrelative:lab03controllerandactions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyLogThisAction.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Filters\\MyLogThisAction.cs",
+              "RelativeDocumentMoniker": "Lab03ControllerAndActions\\Filters\\MyLogThisAction.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Filters\\MyLogThisAction.cs",
+              "RelativeToolTip": "Lab03ControllerAndActions\\Filters\\MyLogThisAction.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA2wBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:04:11.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab03ControllerAndActions\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Lab03ControllerAndActions\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T06:33:32.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Program.cs",
+              "RelativeDocumentMoniker": "Lab03ControllerAndActions\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Program.cs",
+              "RelativeToolTip": "Lab03ControllerAndActions\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:43:01.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab03ControllerAndActions",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj",
+              "RelativeDocumentMoniker": "Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj",
+              "RelativeToolTip": "Lab03ControllerAndActions\\Lab03ControllerAndActions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T06:27:21.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab03ControllerAndActions\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab03ControllerAndActions\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:45:36.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Lab03ControllerAndActions\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Lab03ControllerAndActions\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T06:31:27.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Services\\IDataService.cs",
+              "RelativeDocumentMoniker": "Lab03ControllerAndActions\\Services\\IDataService.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Services\\IDataService.cs",
+              "RelativeToolTip": "Lab03ControllerAndActions\\Services\\IDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T06:45:32.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "Lab03ControllerAndActions\\Services\\DataService.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Services\\DataService.cs",
+              "RelativeToolTip": "Lab03ControllerAndActions\\Services\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T06:43:19.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Lab03ControllerAndActions\\Model\\Customer.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Model\\Customer.cs",
+              "RelativeToolTip": "Lab03ControllerAndActions\\Model\\Customer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T06:25:49.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Lab03ControllerAndActions\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Lab03ControllerAndActions\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T05:59:26.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab03ControllerAndActions\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day2\\Lab03ControllerAndActions\\Lab03ControllerAndActions\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab03ControllerAndActions\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T05:52:35.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

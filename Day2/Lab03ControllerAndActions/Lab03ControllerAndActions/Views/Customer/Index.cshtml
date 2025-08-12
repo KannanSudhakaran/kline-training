@@ -1,0 +1,8 @@
+﻿@model Lab03ControllerAndActions.Model.Customer
+@inject Lab03ControllerAndActions.Services.IDataService DataService
+
+<h1>Hello Mr.@Model.Name </h1>
+<h1>Hello Mr.@Model.City </h1>
+<h1>@DataService.GetData()</h1>
+
+

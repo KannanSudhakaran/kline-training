@@ -6,5 +6,12 @@ namespace Lab02CustomerWebAPI.Repository
     {
         List<Customer> GetCustomers();
         void AddCustomer(Customer customer);
+
+        void UpdateCustomer(Customer customer);
+        Customer GetCustomerById(int id);
+
+        void DeleteCustomer(int id);
+
+
     }
 }

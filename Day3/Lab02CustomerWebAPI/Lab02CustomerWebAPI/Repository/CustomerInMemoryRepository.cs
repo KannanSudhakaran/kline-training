@@ -16,9 +16,24 @@ namespace Lab02CustomerWebAPI.Repository
             _customers.Add(customer);
         }
 
+        public void DeleteCustomer(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Customer GetCustomerById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public List<Customer> GetCustomers()
         {
            return _customers;
+        }
+
+        public void UpdateCustomer(Customer customer)
+        {
+            throw new NotImplementedException();
         }
     }
 }

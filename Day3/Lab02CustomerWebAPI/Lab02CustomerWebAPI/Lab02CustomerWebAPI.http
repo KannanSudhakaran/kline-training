@@ -1,0 +1,6 @@
+@Lab02CustomerWebAPI_HostAddress = http://localhost:5119
+
+GET {{Lab02CustomerWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,13 +1,66 @@
 ﻿
 using Lab01ConsoleEFCore.Data;
 using Lab01ConsoleEFCore.Domain;
+using Microsoft.EntityFrameworkCore;
 
 //CaseStudy1();
 //CaseStudy2();
 
 //CaseSTudy3();
 
-CaseStudy4();
+//CaseStudy4();
+
+//CaseStudy5();
+
+CaseStudy6();
+
+void CaseStudy6()
+{
+    var db = new KlineAppDbContext();
+    var customerAndOrder = db.Customers
+                        .Include(c=>c.Orders)
+                        .ToList();
+
+    foreach (var cust in customerAndOrder)
+    {
+        Console.WriteLine(cust.FirstName);
+        foreach (var order in cust.Orders)
+        {
+            Console.WriteLine($"  Order Id:{order.Id}, TotalAmount:{order.TotalAmount}, Description:{order.Description}");
+        }
+    }
+}
+
+void CaseStudy5()
+{
+
+    var c1 =new Customer
+    {
+        FirstName = "Kline"
+    };
+
+    var order1 = new Order
+    {
+        TotalAmount = 1000,
+        Description = "Order 1",
+       
+    };
+    var order2 = new Order
+    {
+        TotalAmount = 500,
+        Description = "Order 2",
+
+    };
+
+    c1.Orders.Add(order1);
+    c1.Orders.Add(order2);
+
+    var db = new KlineAppDbContext();
+    db.Customers.Add(c1);
+    db.SaveChanges();
+    Console.WriteLine("end of CaseStudy5");
+
+}
 
 void CaseStudy4()
 {

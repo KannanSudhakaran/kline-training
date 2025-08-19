@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab03jwtapi\\lab03jwtapi\\lab03jwtapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|solutionrelative:lab03jwtapi\\lab03jwtapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab03jwtapi\\lab03jwtapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|solutionrelative:lab03jwtapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab03jwtapi\\lab03jwtapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|solutionrelative:lab03jwtapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab03jwtapi\\lab03jwtapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|solutionrelative:lab03jwtapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab03jwtapi\\lab03jwtapi\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|solutionrelative:lab03jwtapi\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab03jwtapi\\lab03jwtapi\\domain\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|solutionrelative:lab03jwtapi\\domain\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Lab03JWTAPI\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\Program.cs",
+              "RelativeToolTip": "Lab03JWTAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:15:15.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab03JWTAPI\\appsettings.json",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\appsettings.json",
+              "RelativeToolTip": "Lab03JWTAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T07:14:26.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab03JWTAPI.csproj",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\Lab03JWTAPI.csproj",
+              "RelativeDocumentMoniker": "Lab03JWTAPI\\Lab03JWTAPI.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\Lab03JWTAPI.csproj",
+              "RelativeToolTip": "Lab03JWTAPI\\Lab03JWTAPI.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-19T07:12:35.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lab03JWTAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lab03JWTAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:12:29.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "Lab03JWTAPI\\Domain\\Employee.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\Domain\\Employee.cs",
+              "RelativeToolTip": "Lab03JWTAPI\\Domain\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:09:18.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\Domain\\AppUser.cs",
+              "RelativeDocumentMoniker": "Lab03JWTAPI\\Domain\\AppUser.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\Domain\\AppUser.cs",
+              "RelativeToolTip": "Lab03JWTAPI\\Domain\\AppUser.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:09:05.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

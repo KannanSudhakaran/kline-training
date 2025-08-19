@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E016D5A-C0FE-41DF-BD2D-355F71CF29B2}|ShoppingApp.API\\ShoppingApp.API.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab01layeredshoppingapp\\shoppingapp.api\\controllers\\catalogitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E016D5A-C0FE-41DF-BD2D-355F71CF29B2}|ShoppingApp.API\\ShoppingApp.API.csproj|solutionrelative:shoppingapp.api\\controllers\\catalogitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E016D5A-C0FE-41DF-BD2D-355F71CF29B2}|ShoppingApp.API\\ShoppingApp.API.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab01layeredshoppingapp\\shoppingapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E016D5A-C0FE-41DF-BD2D-355F71CF29B2}|ShoppingApp.API\\ShoppingApp.API.csproj|solutionrelative:shoppingapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D61FBE-0565-44BB-ACEA-4D2156640B4B}|ShoppingApp.EFRepositories\\ShoppingApp.EFRepositories.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab01layeredshoppingapp\\shoppingapp.efrepositories\\shoppingapp.efrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41D61FBE-0565-44BB-ACEA-4D2156640B4B}|ShoppingApp.EFRepositories\\ShoppingApp.EFRepositories.csproj|solutionrelative:shoppingapp.efrepositories\\shoppingapp.efrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E016D5A-C0FE-41DF-BD2D-355F71CF29B2}|ShoppingApp.API\\ShoppingApp.API.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab01layeredshoppingapp\\shoppingapp.api\\controllers\\catalogitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E016D5A-C0FE-41DF-BD2D-355F71CF29B2}|ShoppingApp.API\\ShoppingApp.API.csproj|solutionrelative:shoppingapp.api\\controllers\\catalogitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41D61FBE-0565-44BB-ACEA-4D2156640B4B}|ShoppingApp.EFRepositories\\ShoppingApp.EFRepositories.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab01layeredshoppingapp\\shoppingapp.efrepositories\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E016D5A-C0FE-41DF-BD2D-355F71CF29B2}|ShoppingApp.API\\ShoppingApp.API.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab01layeredshoppingapp\\shoppingapp.api\\shoppingapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8E016D5A-C0FE-41DF-BD2D-355F71CF29B2}|ShoppingApp.API\\ShoppingApp.API.csproj|solutionrelative:shoppingapp.api\\shoppingapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41D61FBE-0565-44BB-ACEA-4D2156640B4B}|ShoppingApp.EFRepositories\\ShoppingApp.EFRepositories.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab01layeredshoppingapp\\shoppingapp.efrepositories\\shoppingapp.efrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{41D61FBE-0565-44BB-ACEA-4D2156640B4B}|ShoppingApp.EFRepositories\\ShoppingApp.EFRepositories.csproj|solutionrelative:shoppingapp.efrepositories\\shoppingapp.efrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CatalogItemController.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\ShoppingApp.API\\Controllers\\CatalogItemController.cs",
               "RelativeDocumentMoniker": "ShoppingApp.API\\Controllers\\CatalogItemController.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\ShoppingApp.API\\Controllers\\CatalogItemController.cs",
               "RelativeToolTip": "ShoppingApp.API\\Controllers\\CatalogItemController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T03:20:56.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DBInitializer.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\ShoppingApp.EFRepositories\\DBInitializer.cs",
               "RelativeDocumentMoniker": "ShoppingApp.EFRepositories\\DBInitializer.cs",
@@ -80,46 +80,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250819023347_v1.cs",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\ShoppingApp.EFRepositories\\Migrations\\20250819023347_v1.cs",
-              "RelativeDocumentMoniker": "ShoppingApp.EFRepositories\\Migrations\\20250819023347_v1.cs",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\ShoppingApp.EFRepositories\\Migrations\\20250819023347_v1.cs",
-              "RelativeToolTip": "ShoppingApp.EFRepositories\\Migrations\\20250819023347_v1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T02:33:48.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\ShoppingApp.API\\Program.cs",
               "RelativeDocumentMoniker": "ShoppingApp.API\\Program.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\ShoppingApp.API\\Program.cs",
               "RelativeToolTip": "ShoppingApp.API\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAywBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywBIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T02:30:35.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShoppingApp.API",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\ShoppingApp.API\\ShoppingApp.API.csproj",
-              "RelativeDocumentMoniker": "ShoppingApp.API\\ShoppingApp.API.csproj",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\ShoppingApp.API\\ShoppingApp.API.csproj",
-              "RelativeToolTip": "ShoppingApp.API\\ShoppingApp.API.csproj",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-19T02:30:18.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ShoppingApp.EFRepositories",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\ShoppingApp.EFRepositories\\ShoppingApp.EFRepositories.csproj",
               "RelativeDocumentMoniker": "ShoppingApp.EFRepositories\\ShoppingApp.EFRepositories.csproj",
@@ -132,7 +106,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "20250819023347_v1.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\ShoppingApp.EFRepositories\\Migrations\\20250819023347_v1.cs",
+              "RelativeDocumentMoniker": "ShoppingApp.EFRepositories\\Migrations\\20250819023347_v1.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\ShoppingApp.EFRepositories\\Migrations\\20250819023347_v1.cs",
+              "RelativeToolTip": "ShoppingApp.EFRepositories\\Migrations\\20250819023347_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T02:33:48.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingApp.API",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\ShoppingApp.API\\ShoppingApp.API.csproj",
+              "RelativeDocumentMoniker": "ShoppingApp.API\\ShoppingApp.API.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\ShoppingApp.API\\ShoppingApp.API.csproj",
+              "RelativeToolTip": "ShoppingApp.API\\ShoppingApp.API.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-19T02:30:18.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab01LayeredShoppingApp\\ShoppingApp.API\\appsettings.json",
               "RelativeDocumentMoniker": "ShoppingApp.API\\appsettings.json",

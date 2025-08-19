@@ -1,0 +1,6 @@
+@Lab02HangFireIntegration_HostAddress = http://localhost:5062
+
+GET {{Lab02HangFireIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

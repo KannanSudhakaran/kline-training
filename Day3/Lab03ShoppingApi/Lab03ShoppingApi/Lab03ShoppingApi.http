@@ -1,0 +1,6 @@
+@Lab03ShoppingApi_HostAddress = http://localhost:5135
+
+GET {{Lab03ShoppingApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

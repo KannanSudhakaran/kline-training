@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day3\\lab03shoppingapi\\lab03shoppingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|solutionrelative:lab03shoppingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day3\\lab03shoppingapi\\lab03shoppingapi\\controllers\\catalogitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|solutionrelative:lab03shoppingapi\\controllers\\catalogitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day3\\lab03shoppingapi\\lab03shoppingapi\\domain\\catalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|solutionrelative:lab03shoppingapi\\domain\\catalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Migrations\\20250818080655_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab03ShoppingApi\\Migrations\\20250818080655_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day3\\lab03shoppingapi\\lab03shoppingapi\\controllers\\catalogbrandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|solutionrelative:lab03shoppingapi\\controllers\\catalogbrandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day3\\lab03shoppingapi\\lab03shoppingapi\\data\\lab03shoppingapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|solutionrelative:lab03shoppingapi\\data\\lab03shoppingapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day3\\lab03shoppingapi\\lab03shoppingapi\\controllers\\catalogtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|solutionrelative:lab03shoppingapi\\controllers\\catalogtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day3\\lab03shoppingapi\\lab03shoppingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|solutionrelative:lab03shoppingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day3\\lab03shoppingapi\\lab03shoppingapi\\domain\\catalogtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|solutionrelative:lab03shoppingapi\\domain\\catalogtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day3\\lab03shoppingapi\\lab03shoppingapi\\domain\\catalogbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51034800-5566-489E-AAFA-7622A0D3C9CE}|Lab03ShoppingApi\\Lab03ShoppingApi.csproj|solutionrelative:lab03shoppingapi\\domain\\catalogbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab03ShoppingApiContext.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Data\\Lab03ShoppingApiContext.cs",
+              "RelativeDocumentMoniker": "Lab03ShoppingApi\\Data\\Lab03ShoppingApiContext.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Data\\Lab03ShoppingApiContext.cs",
+              "RelativeToolTip": "Lab03ShoppingApi\\Data\\Lab03ShoppingApiContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:59:31.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogItem.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Domain\\CatalogItem.cs",
+              "RelativeDocumentMoniker": "Lab03ShoppingApi\\Domain\\CatalogItem.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Domain\\CatalogItem.cs",
+              "RelativeToolTip": "Lab03ShoppingApi\\Domain\\CatalogItem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:51:34.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatalogItemsController.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Controllers\\CatalogItemsController.cs",
+              "RelativeDocumentMoniker": "Lab03ShoppingApi\\Controllers\\CatalogItemsController.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Controllers\\CatalogItemsController.cs",
+              "RelativeToolTip": "Lab03ShoppingApi\\Controllers\\CatalogItemsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA4wBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:05:31.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Program.cs",
+              "RelativeDocumentMoniker": "Lab03ShoppingApi\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Program.cs",
+              "RelativeToolTip": "Lab03ShoppingApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:58:51.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatalogBrandsController.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Controllers\\CatalogBrandsController.cs",
+              "RelativeDocumentMoniker": "Lab03ShoppingApi\\Controllers\\CatalogBrandsController.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Controllers\\CatalogBrandsController.cs",
+              "RelativeToolTip": "Lab03ShoppingApi\\Controllers\\CatalogBrandsController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAA1wE0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:02:47.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250818080655_v1.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Migrations\\20250818080655_v1.cs",
+              "RelativeDocumentMoniker": "Lab03ShoppingApi\\Migrations\\20250818080655_v1.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Migrations\\20250818080655_v1.cs",
+              "RelativeToolTip": "Lab03ShoppingApi\\Migrations\\20250818080655_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:06:55.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatalogTypesController.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Controllers\\CatalogTypesController.cs",
+              "RelativeDocumentMoniker": "Lab03ShoppingApi\\Controllers\\CatalogTypesController.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Controllers\\CatalogTypesController.cs",
+              "RelativeToolTip": "Lab03ShoppingApi\\Controllers\\CatalogTypesController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAuwCAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:57:51.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab03ShoppingApi\\appsettings.json",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\appsettings.json",
+              "RelativeToolTip": "Lab03ShoppingApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T07:58:04.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CatalogType.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Domain\\CatalogType.cs",
+              "RelativeDocumentMoniker": "Lab03ShoppingApi\\Domain\\CatalogType.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Domain\\CatalogType.cs",
+              "RelativeToolTip": "Lab03ShoppingApi\\Domain\\CatalogType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:50:19.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CatalogBrand.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Domain\\CatalogBrand.cs",
+              "RelativeDocumentMoniker": "Lab03ShoppingApi\\Domain\\CatalogBrand.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day3\\Lab03ShoppingApi\\Lab03ShoppingApi\\Domain\\CatalogBrand.cs",
+              "RelativeToolTip": "Lab03ShoppingApi\\Domain\\CatalogBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:50:08.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

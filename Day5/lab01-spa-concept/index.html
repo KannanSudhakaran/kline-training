@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Without Routing</title>
+</head>
+<body>
+    <nav>
+        <a href="#home" id="homePage">Home</a>
+        <a href="#about" id="aboutPage">About Us</a>
+         <a href="#services" id="service">Kline services</a>
+         <a href="#cat" id="catFacts">CatFacts</a>
+    </nav>
+    <div id="content">
+        <div id="data">
+            <section>
+                <header>
+                    <h3><a id="home">Home Page</a></h3>
+                </header>
+                <article>
+                    A proper article indicates that its noun is proper, and refers to a unique entity. It may be the name of a person, the name of a place, the name of a planet, etc. The Maori language has the proper article a, which is used for personal nouns; so, "a Pita" means "Peter". In Maori, when the personal nouns have the definite or indefinite article as an important part of it, both articles are present; for example, the phrase "a Te Rauparaha", which contains both the proper article a and the definite article Te refers to the person name Te Rauparaha.
+
+                    The definite article is sometimes also used with proper names, which are already specified by definition (there is just one of them). For example: the Amazon, the Hebrides. In these cases, the definite article may be considered superfluous. Its presence can be accounted for by the assumption that they are shorthand for a longer phrase in which the name is a specifier, i.e. the Amazon River, the Hebridean Islands.[citation needed] Where the nouns in such longer phrases cannot be omitted, the definite article is universally kept: the United States, the People's Republic of China. This distinction can sometimes become a political matter: the former usage the Ukraine stressed the word's Russian meaning of "borderlands"; as Ukraine became a fully independent state following the collapse of the Soviet Union, it requested that formal mentions of its name omit the article. Similar shifts in usage have occurred in the names of Sudan and both Congo (Brazzaville) and Congo (Kinshasa); a move in the other direction occurred with The Gambia. In certain languages, such as French and Italian, definite articles are used with all or most names of countries: la France/le Canada/l'Allemagne, l'Italia/la Spagna/il Brasile. </article>
+            </section>
+            <section>
+                <header>
+                    <h3><a id="about">About Us Page</a></h3>
+                </header>
+                <article>
+                    A proper article indicates that its noun is proper, and refers to a unique entity. It may be the name of a person, the name of a place, the name of a planet, etc. The Maori language has the proper article a, which is used for personal nouns; so, "a Pita" means "Peter". In Maori, when the personal nouns have the definite or indefinite article as an important part of it, both articles are present; for example, the phrase "a Te Rauparaha", which contains both the proper article a and the definite article Te refers to the person name Te Rauparaha.
+
+                    The definite article is sometimes also used with proper names, which are already specified by definition (there is just one of them). For example: the Amazon, the Hebrides. In these cases, the definite article may be considered superfluous. Its presence can be accounted for by the assumption that they are shorthand for a longer phrase in which the name is a specifier, i.e. the Amazon River, the Hebridean Islands.[citation needed] Where the nouns in such longer phrases cannot be omitted, the definite article is universally kept: the United States, the People's Republic of China. This distinction can sometimes become a political matter: the former usage the Ukraine stressed the word's Russian meaning of "borderlands"; as Ukraine became a fully independent state following the collapse of the Soviet Union, it requested that formal mentions of its name omit the article. Similar shifts in usage have occurred in the names of Sudan and both Congo (Brazzaville) and Congo (Kinshasa); a move in the other direction occurred with The Gambia. In certain languages, such as French and Italian, definite articles are used with all or most names of countries: la France/le Canada/l'Allemagne, l'Italia/la Spagna/il Brasile. 
+                </article>
+            </section>
+
+            <section>
+                 <h3 id="services">Kline Services</h3>
+                     <article>
+                    A proper article indicates that its noun is proper, and refers to a unique entity. It may be the name of a person, the name of a place, the name of a planet, etc. The Maori language has the proper article a, which is used for personal nouns; so, "a Pita" means "Peter". In Maori, when the personal nouns have the definite or indefinite article as an important part of it, both articles are present; for example, the phrase "a Te Rauparaha", which contains both the proper article a and the definite article Te refers to the person name Te Rauparaha.
+
+                    The definite article is sometimes also used with proper names, which are already specified by definition (there is just one of them). For example: the Amazon, the Hebrides. In these cases, the definite article may be considered superfluous. Its presence can be accounted for by the assumption that they are shorthand for a longer phrase in which the name is a specifier, i.e. the Amazon River, the Hebridean Islands.[citation needed] Where the nouns in such longer phrases cannot be omitted, the definite article is universally kept: the United States, the People's Republic of China. This distinction can sometimes become a political matter: the former usage the Ukraine stressed the word's Russian meaning of "borderlands"; as Ukraine became a fully independent state following the collapse of the Soviet Union, it requested that formal mentions of its name omit the article. Similar shifts in usage have occurred in the names of Sudan and both Congo (Brazzaville) and Congo (Kinshasa); a move in the other direction occurred with The Gambia. In certain languages, such as French and Italian, definite articles are used with all or most names of countries: la France/le Canada/l'Allemagne, l'Italia/la Spagna/il Brasile. 
+                </article>
+            </section>
+            
+        </div>
+        <div>
+            <h1 id="cat">Cat Facts</h1>
+            <article id="apiCallResponse">
+                
+            </article>
+        </div>
+    </div>
+    <script>
+        document.getElementById("aboutPage").addEventListener("click",function(){
+           console.log("Data Loaded from About Page")
+        })
+        
+        document.getElementById("homePage").addEventListener("click",function(){
+           console.log("Data Loaded from Home Page")
+        })
+   
+    
+        document.getElementById("catFacts").addEventListener("click", function() {
+            fetch("https://catfact.ninja/fact")
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById("apiCallResponse").textContent = data.fact;
+                })
+                .catch(error => {
+                    document.getElementById("apiCallResponse").textContent = "Failed to load cat fact.";
+                });
+        });
+    </script>
+</body>
+</html>

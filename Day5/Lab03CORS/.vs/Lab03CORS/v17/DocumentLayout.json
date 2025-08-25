@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5621FF4E-E904-4DB2-8E9A-BCB075181E45}|SampleBazorStandAlone\\SampleBazorStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab03cors\\samplebazorstandalone\\pages\\dynamicweather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5621FF4E-E904-4DB2-8E9A-BCB075181E45}|SampleBazorStandAlone\\SampleBazorStandAlone.csproj|solutionrelative:samplebazorstandalone\\pages\\dynamicweather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE315C-1594-42E9-B8A1-155FF7F0BF38}|SampleAPI\\SampleAPI.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab03cors\\sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE315C-1594-42E9-B8A1-155FF7F0BF38}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5621FF4E-E904-4DB2-8E9A-BCB075181E45}|SampleBazorStandAlone\\SampleBazorStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab03cors\\samplebazorstandalone\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5621FF4E-E904-4DB2-8E9A-BCB075181E45}|SampleBazorStandAlone\\SampleBazorStandAlone.csproj|solutionrelative:samplebazorstandalone\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5621FF4E-E904-4DB2-8E9A-BCB075181E45}|SampleBazorStandAlone\\SampleBazorStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab03cors\\samplebazorstandalone\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5621FF4E-E904-4DB2-8E9A-BCB075181E45}|SampleBazorStandAlone\\SampleBazorStandAlone.csproj|solutionrelative:samplebazorstandalone\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5621FF4E-E904-4DB2-8E9A-BCB075181E45}|SampleBazorStandAlone\\SampleBazorStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab03cors\\samplebazorstandalone\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5621FF4E-E904-4DB2-8E9A-BCB075181E45}|SampleBazorStandAlone\\SampleBazorStandAlone.csproj|solutionrelative:samplebazorstandalone\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE315C-1594-42E9-B8A1-155FF7F0BF38}|SampleAPI\\SampleAPI.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab03cors\\sampleapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AE315C-1594-42E9-B8A1-155FF7F0BF38}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AE315C-1594-42E9-B8A1-155FF7F0BF38}|SampleAPI\\SampleAPI.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab03cors\\sampleapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9AE315C-1594-42E9-B8A1-155FF7F0BF38}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5621FF4E-E904-4DB2-8E9A-BCB075181E45}|SampleBazorStandAlone\\SampleBazorStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab03cors\\samplebazorstandalone\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5621FF4E-E904-4DB2-8E9A-BCB075181E45}|SampleBazorStandAlone\\SampleBazorStandAlone.csproj|solutionrelative:samplebazorstandalone\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5621FF4E-E904-4DB2-8E9A-BCB075181E45}|SampleBazorStandAlone\\SampleBazorStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab03cors\\samplebazorstandalone\\model\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5621FF4E-E904-4DB2-8E9A-BCB075181E45}|SampleBazorStandAlone\\SampleBazorStandAlone.csproj|solutionrelative:samplebazorstandalone\\model\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5621FF4E-E904-4DB2-8E9A-BCB075181E45}|SampleBazorStandAlone\\SampleBazorStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab03cors\\samplebazorstandalone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5621FF4E-E904-4DB2-8E9A-BCB075181E45}|SampleBazorStandAlone\\SampleBazorStandAlone.csproj|solutionrelative:samplebazorstandalone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleAPI\\Program.cs",
+              "RelativeToolTip": "SampleAPI\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:16:48.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleBazorStandAlone\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SampleBazorStandAlone\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleBazorStandAlone\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SampleBazorStandAlone\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T06:15:37.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleBazorStandAlone\\_Imports.razor",
+              "RelativeDocumentMoniker": "SampleBazorStandAlone\\_Imports.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleBazorStandAlone\\_Imports.razor",
+              "RelativeToolTip": "SampleBazorStandAlone\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T05:59:20.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleBazorStandAlone\\Model\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SampleBazorStandAlone\\Model\\WeatherForecast.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleBazorStandAlone\\Model\\WeatherForecast.cs",
+              "RelativeToolTip": "SampleBazorStandAlone\\Model\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:55:35.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DynamicWeather.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleBazorStandAlone\\Pages\\DynamicWeather.razor",
+              "RelativeDocumentMoniker": "SampleBazorStandAlone\\Pages\\DynamicWeather.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleBazorStandAlone\\Pages\\DynamicWeather.razor",
+              "RelativeToolTip": "SampleBazorStandAlone\\Pages\\DynamicWeather.razor",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T05:52:30.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleBazorStandAlone\\Program.cs",
+              "RelativeDocumentMoniker": "SampleBazorStandAlone\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleBazorStandAlone\\Program.cs",
+              "RelativeToolTip": "SampleBazorStandAlone\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:57:00.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleBazorStandAlone\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "SampleBazorStandAlone\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleBazorStandAlone\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "SampleBazorStandAlone\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T05:52:57.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleBazorStandAlone\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "SampleBazorStandAlone\\Pages\\Weather.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleBazorStandAlone\\Pages\\Weather.razor",
+              "RelativeToolTip": "SampleBazorStandAlone\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T05:51:22.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SampleAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SampleAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T06:00:36.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab03CORS\\SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:01:04.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

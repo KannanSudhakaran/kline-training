@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SampleAPI\\SampleAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SampleBazorStandAlone\\SampleBazorStandAlone.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

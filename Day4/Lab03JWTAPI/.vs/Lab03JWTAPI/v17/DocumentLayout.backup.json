@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|solutionrelative:lab03jwtapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab03jwtapi\\lab03jwtapi\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|solutionrelative:lab03jwtapi\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab03jwtapi\\lab03jwtapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|solutionrelative:lab03jwtapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab03jwtapi\\lab03jwtapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|solutionrelative:lab03jwtapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab03jwtapi\\lab03jwtapi\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|solutionrelative:lab03jwtapi\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83EF4B3C-BD08-4E58-8FD8-0F3ACE651875}|Lab03JWTAPI\\Lab03JWTAPI.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day4\\lab03jwtapi\\lab03jwtapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -76,7 +76,7 @@
               "RelativeDocumentMoniker": "Lab03JWTAPI\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Lab03JWTAPI\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAA1wBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T08:34:56.956Z",
               "EditorCaption": ""
@@ -96,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Lab03JWTAPI\\Controllers\\AuthController.cs",
@@ -109,13 +109,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "Lab03JWTAPI\\Data\\DbInitializer.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\Data\\DbInitializer.cs",
               "RelativeToolTip": "Lab03JWTAPI\\Data\\DbInitializer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAIBAwA0AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBAwAwAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T08:07:08.662Z",
               "EditorCaption": ""
@@ -135,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\Program.cs",
               "RelativeDocumentMoniker": "Lab03JWTAPI\\Program.cs",
@@ -148,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day4\\Lab03JWTAPI\\Lab03JWTAPI\\appsettings.json",
               "RelativeDocumentMoniker": "Lab03JWTAPI\\appsettings.json",

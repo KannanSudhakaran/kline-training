@@ -1,0 +1,20 @@
+﻿@page "/counter"
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+<h2>Dom is re rendered @DateTime.Now.ToString()</h2>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+        Console.WriteLine($"counter is {currentCount}");
+    }
+}

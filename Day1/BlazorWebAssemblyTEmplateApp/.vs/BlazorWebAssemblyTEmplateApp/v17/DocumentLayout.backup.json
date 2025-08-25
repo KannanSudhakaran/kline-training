@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{307E9855-91A7-48D5-9C41-1CB79367C8B5}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{307E9855-91A7-48D5-9C41-1CB79367C8B5}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj|solutionrelative:blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307E9855-91A7-48D5-9C41-1CB79367C8B5}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{307E9855-91A7-48D5-9C41-1CB79367C8B5}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj|solutionrelative:blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9C4CDA0-7535-4157-AD36-F4E7A1BAEB49}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9C4CDA0-7535-4157-AD36-F4E7A1BAEB49}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj|solutionrelative:blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A9C4CDA0-7535-4157-AD36-F4E7A1BAEB49}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9C4CDA0-7535-4157-AD36-F4E7A1BAEB49}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj|solutionrelative:blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307E9855-91A7-48D5-9C41-1CB79367C8B5}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307E9855-91A7-48D5-9C41-1CB79367C8B5}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj|solutionrelative:blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{307E9855-91A7-48D5-9C41-1CB79367C8B5}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{307E9855-91A7-48D5-9C41-1CB79367C8B5}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj|solutionrelative:blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C4CDA0-7535-4157-AD36-F4E7A1BAEB49}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp.client\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9C4CDA0-7535-4157-AD36-F4E7A1BAEB49}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj|solutionrelative:blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp.client\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9C4CDA0-7535-4157-AD36-F4E7A1BAEB49}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp.client\\blazorwebassemblytemplateapp.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -19,20 +39,8 @@
       "RelativeMoniker": "D:0:0:{307E9855-91A7-48D5-9C41-1CB79367C8B5}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj|solutionrelative:blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{307E9855-91A7-48D5-9C41-1CB79367C8B5}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{307E9855-91A7-48D5-9C41-1CB79367C8B5}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj|solutionrelative:blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9C4CDA0-7535-4157-AD36-F4E7A1BAEB49}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A9C4CDA0-7535-4157-AD36-F4E7A1BAEB49}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj|solutionrelative:blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A9C4CDA0-7535-4157-AD36-F4E7A1BAEB49}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9C4CDA0-7535-4157-AD36-F4E7A1BAEB49}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj|solutionrelative:blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{307E9855-91A7-48D5-9C41-1CB79367C8B5}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day1\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{307E9855-91A7-48D5-9C41-1CB79367C8B5}|BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj|solutionrelative:blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp\\blazorwebassemblytemplateapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,48 +67,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T02:40:49.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\Routes.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\Routes.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\Routes.razor",
+              "RelativeToolTip": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T02:37:27.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\Components\\App.razor",
               "RelativeDocumentMoniker": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\Components\\App.razor",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\Components\\App.razor",
               "RelativeToolTip": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\Components\\App.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T03:46:05.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\appsettings.Development.json",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\appsettings.Development.json",
-              "RelativeToolTip": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-11T03:45:52.518Z"
+              "WhenOpened": "2025-08-11T03:46:05.124Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BlazorWebAssemblyTEmplateApp.Client.csproj",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj",
-              "RelativeDocumentMoniker": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj",
-              "RelativeToolTip": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-11T03:41:25.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\Pages\\Counter.razor",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\Pages\\Counter.razor",
               "RelativeToolTip": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-11T03:42:39.102Z",
               "EditorCaption": ""
@@ -113,13 +124,40 @@
               "RelativeDocumentMoniker": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\Program.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\Program.cs",
               "RelativeToolTip": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T03:45:02.591Z"
+              "WhenOpened": "2025-08-11T03:45:02.591Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "BlazorWebAssemblyTEmplateApp.csproj",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj",
+              "RelativeToolTip": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T03:41:30.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlazorWebAssemblyTEmplateApp.Client.csproj",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj",
+              "RelativeToolTip": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\BlazorWebAssemblyTEmplateApp.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T03:41:25.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\Pages\\Home.razor",
@@ -127,11 +165,24 @@
               "RelativeToolTip": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T03:43:58.636Z"
+              "WhenOpened": "2025-08-11T03:43:58.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\appsettings.Development.json",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\appsettings.Development.json",
+              "RelativeToolTip": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T03:45:52.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\Program.cs",
               "RelativeDocumentMoniker": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.Client\\Program.cs",
@@ -140,18 +191,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T03:42:18.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BlazorWebAssemblyTEmplateApp.csproj",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj",
-              "RelativeDocumentMoniker": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day1\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj",
-              "RelativeToolTip": "BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp\\BlazorWebAssemblyTEmplateApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-11T03:41:30.968Z"
             }
           ]
         }

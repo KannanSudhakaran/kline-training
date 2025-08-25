@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab04staticssr\\lab04staticssr\\components\\pages\\readfile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|solutionrelative:lab04staticssr\\components\\pages\\readfile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab04staticssr\\lab04staticssr\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|solutionrelative:lab04staticssr\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab04staticssr\\lab04staticssr\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|solutionrelative:lab04staticssr\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab04staticssr\\lab04staticssr\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|solutionrelative:lab04staticssr\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab04staticssr\\lab04staticssr\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|solutionrelative:lab04staticssr\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab04staticssr\\lab04staticssr\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|solutionrelative:lab04staticssr\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab04staticssr\\lab04staticssr\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|solutionrelative:lab04staticssr\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab04staticssr\\lab04staticssr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|solutionrelative:lab04staticssr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab04staticssr\\lab04staticssr\\lab04staticssr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{650D6440-DE65-49CF-8E40-DD9C6C6AEDE9}|Lab04StaticSSR\\Lab04StaticSSR.csproj|solutionrelative:lab04staticssr\\lab04staticssr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadFile.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Components\\Pages\\ReadFile.razor",
+              "RelativeDocumentMoniker": "Lab04StaticSSR\\Components\\Pages\\ReadFile.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Components\\Pages\\ReadFile.razor",
+              "RelativeToolTip": "Lab04StaticSSR\\Components\\Pages\\ReadFile.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:47:01.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Lab04StaticSSR\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Lab04StaticSSR\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:45:17.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Lab04StaticSSR\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Lab04StaticSSR\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:45:16.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Lab04StaticSSR\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Lab04StaticSSR\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:44:33.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Lab04StaticSSR\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Lab04StaticSSR\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:44:03.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Lab04StaticSSR\\Components\\Routes.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Components\\Routes.razor",
+              "RelativeToolTip": "Lab04StaticSSR\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:43:38.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Lab04StaticSSR\\Components\\App.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Components\\App.razor",
+              "RelativeToolTip": "Lab04StaticSSR\\Components\\App.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:40:43.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Program.cs",
+              "RelativeDocumentMoniker": "Lab04StaticSSR\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Program.cs",
+              "RelativeToolTip": "Lab04StaticSSR\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:38:48.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lab04StaticSSR",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Lab04StaticSSR.csproj",
+              "RelativeDocumentMoniker": "Lab04StaticSSR\\Lab04StaticSSR.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab04StaticSSR\\Lab04StaticSSR\\Lab04StaticSSR.csproj",
+              "RelativeToolTip": "Lab04StaticSSR\\Lab04StaticSSR.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T06:37:08.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

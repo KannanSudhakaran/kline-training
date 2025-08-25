@@ -1,0 +1,29 @@
+﻿@page "/readfile"
+@rendermode InteractiveAuto
+
+<h1>ReadFFile</h1>
+<h2>@DateTime.Now.ToString()</h2>
+<button @onclick="LoadFileData">loadFileData</button>
+<h3>@FileData</h3>
+@code {
+    string FileData = "";
+
+    void LoadFileData()
+    {
+        try
+        {
+            var filePath = @"C:\LiveSessionKoenig\KlineDotnetCustom\kline-training\Day5\hello.txt";
+            using var sr = new StreamReader(filePath);
+            FileData = sr.ReadToEnd();
+
+        }
+        catch (Exception ex)
+        {
+
+            FileData = ex.Message;
+        }
+
+
+    }
+
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab06InteractiveWASM", "Lab06InteractiveWASM\Lab06InteractiveWASM\Lab06InteractiveWASM.csproj", "{AA205398-7CD5-4EB5-822B-8E45BA5AA8A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab06InteractiveWASM.Client", "Lab06InteractiveWASM\Lab06InteractiveWASM.Client\Lab06InteractiveWASM.Client.csproj", "{6A8D0978-38DE-4DC9-9861-FBC2E82FF7E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA205398-7CD5-4EB5-822B-8E45BA5AA8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA205398-7CD5-4EB5-822B-8E45BA5AA8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA205398-7CD5-4EB5-822B-8E45BA5AA8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA205398-7CD5-4EB5-822B-8E45BA5AA8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A8D0978-38DE-4DC9-9861-FBC2E82FF7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8D0978-38DE-4DC9-9861-FBC2E82FF7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8D0978-38DE-4DC9-9861-FBC2E82FF7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8D0978-38DE-4DC9-9861-FBC2E82FF7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A888942A-F56C-45CE-B18A-0F679CDA1FB4}
+	EndGlobalSection
+EndGlobal

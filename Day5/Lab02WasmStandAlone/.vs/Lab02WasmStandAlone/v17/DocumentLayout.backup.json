@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab02wasmstandalone\\lab02wasmstandalone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|solutionrelative:lab02wasmstandalone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab02wasmstandalone\\lab02wasmstandalone\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|solutionrelative:lab02wasmstandalone\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab02wasmstandalone\\lab02wasmstandalone\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|solutionrelative:lab02wasmstandalone\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab02wasmstandalone\\lab02wasmstandalone\\pages\\readfile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab02wasmstandalone\\lab02wasmstandalone\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|solutionrelative:lab02wasmstandalone\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab02wasmstandalone\\lab02wasmstandalone\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|solutionrelative:lab02wasmstandalone\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab02wasmstandalone\\lab02wasmstandalone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|solutionrelative:lab02wasmstandalone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab02wasmstandalone\\lab02wasmstandalone\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab02wasmstandalone\\lab02wasmstandalone\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|solutionrelative:lab02wasmstandalone\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab02wasmstandalone\\lab02wasmstandalone\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|solutionrelative:lab02wasmstandalone\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab02wasmstandalone\\lab02wasmstandalone\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{58E6FF03-8739-4A9E-8037-60A2C6BF96B0}|Lab02WasmStandAlone\\Lab02WasmStandAlone.csproj|solutionrelative:lab02wasmstandalone\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,20 +70,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Lab02WasmStandAlone\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "Lab02WasmStandAlone\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T04:05:50.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ReadFile.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\Pages\\ReadFile.razor",
               "RelativeDocumentMoniker": "Lab02WasmStandAlone\\Pages\\ReadFile.razor",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\Pages\\ReadFile.razor",
               "RelativeToolTip": "Lab02WasmStandAlone\\Pages\\ReadFile.razor",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T03:47:52.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\Program.cs",
               "RelativeDocumentMoniker": "Lab02WasmStandAlone\\Program.cs",
@@ -92,33 +109,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainLayout.razor.css",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\Layout\\MainLayout.razor.css",
-              "RelativeDocumentMoniker": "Lab02WasmStandAlone\\Layout\\MainLayout.razor.css",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\Layout\\MainLayout.razor.css",
-              "RelativeToolTip": "Lab02WasmStandAlone\\Layout\\MainLayout.razor.css",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-25T03:23:59.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Lab02WasmStandAlone\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Lab02WasmStandAlone\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAABYAAAAAAAAAAAAowCEAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowB0AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T03:23:23.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Lab02WasmStandAlone\\Pages\\Counter.razor",
@@ -131,7 +135,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\App.razor",
+              "RelativeDocumentMoniker": "Lab02WasmStandAlone\\App.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\App.razor",
+              "RelativeToolTip": "Lab02WasmStandAlone\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T03:19:12.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Lab02WasmStandAlone\\wwwroot\\index.html",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\wwwroot\\index.html",
+              "RelativeToolTip": "Lab02WasmStandAlone\\wwwroot\\index.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-25T03:27:36.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Lab02WasmStandAlone\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Lab02WasmStandAlone\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T03:23:59.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Weather.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "Lab02WasmStandAlone\\Pages\\Weather.razor",
@@ -144,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Lab02WasmStandAlone\\Pages\\Home.razor",
@@ -157,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Lab02WasmStandAlone\\Layout\\MainLayout.razor",
@@ -166,32 +209,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T03:20:38.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "Lab02WasmStandAlone\\wwwroot\\index.html",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\wwwroot\\index.html",
-              "RelativeToolTip": "Lab02WasmStandAlone\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-08-25T03:27:36.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\App.razor",
-              "RelativeDocumentMoniker": "Lab02WasmStandAlone\\App.razor",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab02WasmStandAlone\\Lab02WasmStandAlone\\App.razor",
-              "RelativeToolTip": "Lab02WasmStandAlone\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T03:19:12.293Z",
               "EditorCaption": ""
             }
           ]

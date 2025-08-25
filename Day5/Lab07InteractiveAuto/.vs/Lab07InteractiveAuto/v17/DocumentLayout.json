@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab07InteractiveAuto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{597119DF-96D8-41CC-9CC9-663AA6657244}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab07interactiveauto\\lab07interactiveauto\\lab07interactiveauto\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{597119DF-96D8-41CC-9CC9-663AA6657244}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|solutionrelative:lab07interactiveauto\\lab07interactiveauto\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AABA7C10-8AE5-4EFA-B007-0ED69CCC883D}|Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Lab07InteractiveAuto.Client.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab07interactiveauto\\lab07interactiveauto\\lab07interactiveauto.client\\pages\\readfile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AABA7C10-8AE5-4EFA-B007-0ED69CCC883D}|Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Lab07InteractiveAuto.Client.csproj|solutionrelative:lab07interactiveauto\\lab07interactiveauto.client\\pages\\readfile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{597119DF-96D8-41CC-9CC9-663AA6657244}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab07interactiveauto\\lab07interactiveauto\\lab07interactiveauto\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{597119DF-96D8-41CC-9CC9-663AA6657244}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|solutionrelative:lab07interactiveauto\\lab07interactiveauto\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{597119DF-96D8-41CC-9CC9-663AA6657244}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab07interactiveauto\\lab07interactiveauto\\lab07interactiveauto\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{597119DF-96D8-41CC-9CC9-663AA6657244}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|solutionrelative:lab07interactiveauto\\lab07interactiveauto\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{597119DF-96D8-41CC-9CC9-663AA6657244}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|c:\\livesessionkoenig\\klinedotnetcustom\\kline-training\\day5\\lab07interactiveauto\\lab07interactiveauto\\lab07interactiveauto\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ReadFile.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Pages\\ReadFile.razor",
               "RelativeDocumentMoniker": "Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Pages\\ReadFile.razor",
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Weather.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\Pages\\Weather.razor",
@@ -104,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\Pages\\Home.razor",
@@ -117,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\Layout\\NavMenu.razor",
@@ -143,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Program.cs",
               "RelativeDocumentMoniker": "Lab07InteractiveAuto\\Lab07InteractiveAuto\\Program.cs",
@@ -156,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineDotnetCustom\\kline-training\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Pages\\Counter.razor",

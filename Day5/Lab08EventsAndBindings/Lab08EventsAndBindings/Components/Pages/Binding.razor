@@ -1,0 +1,24 @@
+﻿@page "/binding"
+@rendermode InteractiveServer
+
+<h3>Binding</h3>
+<h4>first name is @firstName and location is @location</h4>
+
+<span>FirstName</span>
+<input type="text" @bind="firstName" />
+
+<span>Location</span>
+
+<input type="text" value="@location"  @oninput="OnLocationChanged" />
+
+@code {
+    string firstName = "LinHao";
+    string location = "Singapore";
+
+    void OnLocationChanged(ChangeEventArgs e)
+    {
+        Console.WriteLine(e.Value);
+        location = e.Value.ToString();
+    }
+
+}
